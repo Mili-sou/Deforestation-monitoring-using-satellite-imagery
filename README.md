@@ -1,1 +1,17 @@
 # Deforestation-monitoring-using-satellite-imagery
+## Data set used: https://drive.google.com/drive/folders/1XXaInl5FSO7uyB8nQqZDT-OE9u5Y8yRR?usp=sharing
+# Description:
+A deforestation monitoring project using a Convolutional Neural Network (CNN) model involves leveraging deep learning techniques to detect and analyze deforestation activities from satellite imagery. The project typically includes the following steps:
+
+1. **Data Collection**: Gather satellite images from sources like Landsat, Sentinel, or other high-resolution satellites (or you can use the dataset link provided). These images cover different geographical areas and time periods, allowing the model to track changes over time.
+
+2. **Preprocessing**: The images are preprocessed to enhance features relevant to deforestation. This might include resizing, normalization, and augmentation to make the model more robust to variations.
+
+3. **CNN Model Development**: A CNN architecture is designed or selected, typically involving multiple layers like convolutional, pooling, and fully connected layers. The model is trained on labeled data, where regions of deforestation are marked, to learn patterns that distinguish deforested areas from non-deforested ones.
+
+4. **Training and Validation**: The CNN is trained using a large dataset, with a portion reserved for validation to fine-tune hyperparameters and prevent overfitting. The model learns to extract relevant features from the images and make predictions about deforestation.
+
+5. **Deployment and Monitoring**: Once trained, the model can be deployed to continuously monitor satellite imagery, detecting new instances of deforestation in near real-time. Alerts can be generated when deforestation is detected, allowing for timely intervention.
+
+6. **Evaluation and Improvement**: The model’s performance is continuously evaluated using metrics like accuracy, precision, recall, and F1-score. Based on the results, the model can be further refined and retrained with new data to improve its detection capabilities.
+
