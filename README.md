@@ -1,4 +1,7 @@
 # Deforestation-monitoring-using-satellite-imagery
+<p>
+  <img src="https://www.google.com/imgres?q=deforestation%20monitoring%20image&imgurl=https%3A%2F%2Fwww.cyberswift.com%2Fpublic%2Fcyberswift%2Fimages%2Fafforestation-deforestation%2Fafforestation-deforestation-bg.jpg&imgrefurl=https%3A%2F%2Fwww.cyberswift.com%2Fin%2Findustries%2Fafforestation-deforestation&docid=DW7nYX_WZtfyDM&tbnid=OWtUAgcUgLPrzM&vet=12ahUKEwjz5Y-BnuiHAxXYyTgGHT3GOVkQM3oECHEQAA..i&w=1920&h=600&hcb=2&ved=2ahUKEwjz5Y-BnuiHAxXYyTgGHT3GOVkQM3oECHEQAA">
+</p>
 ## Data set link: https://drive.google.com/drive/folders/1XXaInl5FSO7uyB8nQqZDT-OE9u5Y8yRR?usp=sharing
 ### Note : The gdrive consists of 50 sample images and masks,one can use more samples for better accuracy of the model.
 # Description:
