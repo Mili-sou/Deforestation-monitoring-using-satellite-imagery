@@ -1,5 +1,6 @@
 # Deforestation-monitoring-using-satellite-imagery
-## Data set used: https://drive.google.com/drive/folders/1XXaInl5FSO7uyB8nQqZDT-OE9u5Y8yRR?usp=sharing
+## Data set link: https://drive.google.com/drive/folders/1XXaInl5FSO7uyB8nQqZDT-OE9u5Y8yRR?usp=sharing
+### Note : The gdrive consists of 50 sample images and masks,one can use more samples for better accuracy of the model.
 # Description:
 A deforestation monitoring project using a Convolutional Neural Network (CNN) model involves leveraging deep learning techniques to detect and analyze deforestation activities from satellite imagery. The project typically includes the following steps:
 
@@ -14,4 +15,9 @@ A deforestation monitoring project using a Convolutional Neural Network (CNN) mo
 5. **Deployment and Monitoring**: Once trained, the model can be deployed to continuously monitor satellite imagery, detecting new instances of deforestation in near real-time. Alerts can be generated when deforestation is detected, allowing for timely intervention.
 
 6. **Evaluation and Improvement**: The model’s performance is continuously evaluated using metrics like accuracy, precision, recall, and F1-score. Based on the results, the model can be further refined and retrained with new data to improve its detection capabilities.
+
+# Sample of images:
+The dimensions of the images is 512 x 512.
+![Screenshot (483)](https://github.com/user-attachments/assets/9dda6167-48e1-478e-891d-cf2b4ae1ee2d)
+
 
