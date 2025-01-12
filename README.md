@@ -4,7 +4,7 @@
 </p>
 
 ## Data set link: https://drive.google.com/drive/folders/1XXaInl5FSO7uyB8nQqZDT-OE9u5Y8yRR?usp=sharing
-### Note : The gdrive consists of 50 sample images and masks,one can use more samples for better accuracy of the model.
+### Note : The Google drive consists of 50 sample images and masks,one can use more samples for better accuracy of the model.
 # Description:
 A deforestation monitoring project using a Convolutional Neural Network (CNN) model involves leveraging deep learning techniques to detect and analyze deforestation activities from satellite imagery. The project typically includes the following steps:
 
